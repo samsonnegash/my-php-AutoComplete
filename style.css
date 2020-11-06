@@ -1,0 +1,38 @@
+
+body {
+   background-color:#F2F8F4;
+   margin-top: 100px;
+}
+    
+    small {
+        font-size:15px;
+        color:#666;
+    }
+    
+    .info {
+        margin: auto;
+        width: 400px;
+        padding: 10px 0px 0px 0px;
+    }
+    .search_form {
+	   background-color:#FFF;
+        margin: auto;
+        width: 400px;
+        border: 1px solid #ccc;
+    }
+    
+    .search_icon {
+        width: 67px;
+        height: 51px;
+        float: right;
+        background: url(search.png) no-repeat;
+    }
+    
+    .search_field {
+        width: 290px;
+        height: 35px;
+        padding: 8px 20px;
+        border: none;
+        font-size: 28px;
+    }
+    
